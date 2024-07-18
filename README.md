@@ -12,3 +12,21 @@ The dataset is divided into two parts:
 * Cuisine: A high resolution image of sushi from Japanese cuisine.
 * Landmarks: A panoramic view of Eiffel Tower in France.
 * Art: Clothing Image of a person in kurta from India.
+
+ ## Citing this work
+```
+@misc{kannen2024aestheticsculturalcompetencetexttoimage,
+      title={Beyond Aesthetics: Cultural Competence in Text-to-Image Models}, 
+      author={Nithish Kannen and Arif Ahmad and Marco Andreetto and Vinodkumar Prabhakaran and Utsav Prabhu and Adji Bousso Dieng and Pushpak Bhattacharyya and Shachi Dave},
+      year={2024},
+      eprint={2407.06863},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.06863}, 
+}
+```
+
+## License
+We distribute CUBE under [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license
+
+*This is not an officially supported Google product.*
