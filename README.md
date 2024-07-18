@@ -27,6 +27,6 @@ The dataset is divided into two parts:
 ```
 
 ## License
-We distribute CUBE under [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license
+We distribute CUBE under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license 
 
 *This is not an officially supported Google product.*
