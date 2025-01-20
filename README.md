@@ -1,5 +1,8 @@
 # Beyond Aesthetics: Cultural Competence in Text-to-Image Models
 
+
+Contents of this repsository has been moved to https://github.com/google-deepmind/cube. Further updates will be made there.
+
 This repository contains data resources for the paper: [Beyond Aesthetics: Cultural Competence in Text-to-Image Models](https://www.arxiv.org/abs/2407.06863). It contains cultural artifacts across 8 countries (Brazil, France, India, Italy, Japan, Nigeria, Turkey, and USA) and 3 domains (cuisine, landmarks, art). 
 
 The dataset is divided into two parts:
